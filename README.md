@@ -36,48 +36,29 @@ Player 2: QUESTION!
 
 Tie!
 
-What I Used
-C
-CS50 Library
-Arrays
-Strings
-strlen()
-isupper()
-islower()
-for loops
-Functions
-Character indexing
-What I Learned
+## What I Used
+
+- C
+- CS50 Library
+- Arrays
+- Strings
+- `strlen()`
+- `isupper()`
+- `islower()`
+- `for` loops
+- Functions
+- Character indexing
+
+## What I Learned
 
 This problem helped me understand how arrays can be used to store related values and how a character can be used to find the corresponding position in an array.
 
 I also got more practice with strings, loops, functions, and working with individual characters.
 
-How to Run
+## How to Run
 
 Compile:
 
+``bash
 make scrabble
-
-Run:
-
 ./scrabble
-Course
-
-Harvard CS50x — Introduction to Computer Science
-Week 2: Arrays
-
-Status
-
-Completed ✅
-
-
-### For the repo name
-
-I'd keep it simple:
-
-**`scrabble`**
-
-And description:
-
-> A C program that calculates and compares Scrabble scores for two words, completed as part of Harvard's CS50 Week 2.
